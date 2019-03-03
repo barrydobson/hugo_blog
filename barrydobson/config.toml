@@ -17,7 +17,7 @@ paginate = 5
 [languages]
   [languages.en]
     title = "Barry Dobson"
-    subtitle = "A simple, retro theme for Hugo"
+    subtitle = "A blog about software development and devops"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
