@@ -1,0 +1,8 @@
+
+FROM alpine:latest
+
+RUN apk --no-cache add ca-certificates curl bash vim git make
+
+RUN curl -L https://github.com/jbarone/ghostToHugo/releases/download/v0.3.0/ghostToHugo_0.3.0_Linux_x86_64.tar.gz | tar -zOxf - ghostToHugo > /usr/bin/ghostToHugo && chmod +x /usr/bin/ghostToHugo
+
+ENTRYPOINT ["bash"]
