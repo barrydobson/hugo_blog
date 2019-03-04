@@ -3,6 +3,8 @@ languageCode = "en-gb"
 title = "Barry Dobson"
 theme = "terminal"
 paginate = 5
+googleAnalytics = "UA-118951548-3"
+enableGitInfo = true
 
 [params]
   # dir name of your blog content (default is `content/posts`)
@@ -12,9 +14,8 @@ paginate = 5
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2
   fullWidthTheme = false
-  centerTheme = true
-  googleAnalytics = "UA-118951548-3"
-
+  centerTheme = true  
+  
 [languages]
   [languages.en]
     title = "Barry Dobson"
