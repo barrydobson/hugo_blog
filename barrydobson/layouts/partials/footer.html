@@ -7,9 +7,9 @@
         <span>© {{ now.Year }} Powered by <a href="http://gohugo.io">Hugo</a></span>
         <span>:: Theme made by <a href="https://twitter.com/panr">panr</a></span>
         {{ if $.GitInfo }} 
-        <small class="gray">
-          <em>Version: {{ .GitInfo.AbbreviatedHash }}</em>
-        </small>
+        <span>
+          <em>:: Version: {{ .GitInfo.AbbreviatedHash }}</em>
+        </span>
         {{ end }}
       </div>
     {{end}}
