@@ -1,4 +1,4 @@
-baseURL = "https://blog.barrydobson.com/"
+baseURL = "https://www.barrydobson.com/"
 languageCode = "en-gb"
 title = "Barry Dobson"
 theme = "terminal"

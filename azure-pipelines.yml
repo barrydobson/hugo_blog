@@ -6,7 +6,7 @@ steps:
   inputs:
     source: barrydobson
     destination: '$(Build.ArtifactStagingDirectory)'
-    baseURL: 'https://blog.barrydobson.com'
+    baseURL: 'https://www.barrydobson.com'
 
 - task: PublishBuildArtifacts@1
   displayName: 'Publish Artifact: drop'
