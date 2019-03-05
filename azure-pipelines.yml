@@ -2,7 +2,6 @@ resources:
   containers:
   - container: hugo
     image: 'barrydobson/hugo:0.54.0'
-    options: -v $(Build.SourcesDirectory):/pwd
 
 pool: 'Hosted Ubuntu 1604'
 container: hugo
