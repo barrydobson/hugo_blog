@@ -1,12 +1,9 @@
-pool:
-  vmImage: Hosted VS2017
-steps:
-- task: giuliovdev.hugo-extension.hugo-build-task.HugoTask@1
-  displayName: 'Hugo generate barrydobson'
-  inputs:
-    source: barrydobson
-    destination: '$(Build.ArtifactStagingDirectory)'
-    baseURL: 'https://www.barrydobson.com'
+resources:
+  containers:
+  - container: hugo
+    image: barrydobson/hugo:0.54.0
+    volumes:
+    - /src/dir:/pwd/
 
-- task: PublishBuildArtifacts@1
-  displayName: 'Publish Artifact: drop'
+steps:
+- script: make build
