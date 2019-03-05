@@ -1,14 +1,14 @@
 resources:
   containers:
   - container: hugo
-    image: 'barrydobson/hugo:0.54.0'
+    image: 'barrydobson/hugo:ci'
 
 pool: 'Hosted Ubuntu 1604'
 container: hugo
 
 steps:
 - script: |
-    cd /pwd/barrydobson
+    cd /pwd/barrydobsonß
     make build
   displayName: 'Hugo generate barrydobson'
 
