@@ -8,7 +8,9 @@ image = "https://images.unsplash.com/photo-1470173274384-c4e8e2f9ea4c?ixlib=rb-0
 slug = "working-with-ldap-in-vb-net"
 tags = ["VB", "Archives"]
 title = "Working with LDAP in VB.Net"
-
+aliases = [
+    "/2008/06/13/working-with-ldap-in-vbnet/"
+]
 +++
 
 I wrote a post a while ago dealing with an error that VB can throw when dealing with an LDAP connection. Because this post has proved popular with people searching for the error code on Google, I thought I’d put together a quick post on using LDAP in VB.Net.

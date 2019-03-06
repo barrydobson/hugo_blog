@@ -1,0 +1,22 @@
+{{ define "header" }}
+<!-- No header on 404 pages -->{{ end }}
+{{ define "main" }}
+
+<div class="content">
+    <div class="post">
+        <h1 class="error-emoji"></h1>        
+        <div class="post-content">
+            <h4 id="hi-there">Whoops, this page doesn't exist. Move along. (404 error)</h4>
+        </div>
+    </div>
+</div>
+<script>
+    var errorEmojiContainer = document.getElementsByClassName('error-emoji')[0];
+    var emojiArray = [
+        '\\(o_o)/', '(o^^)o', '(˚Δ˚)b', '(^-^*)', '(≥o≤)', '(^_^)b', '(·_·)',
+        '(=\'X\'=)', '(>_<)', '(;-;)', '\\(^Д^)/',
+    ];
+    var errorEmoji = emojiArray[Math.floor(Math.random() * emojiArray.length)];
+    errorEmojiContainer.appendChild(document.createTextNode(errorEmoji));
+</script>
+{{ end }}
