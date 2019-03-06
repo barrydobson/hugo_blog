@@ -4,7 +4,7 @@ categories = ["Oracle", "VB", "Archives"]
 date = 2009-02-17T07:16:00Z
 description = ""
 draft = false
-image = "https://images.unsplash.com/photo-1504355080015-bba52674577b?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ&s=54733a3c1965933aab5f6c9a509f4ec3"
+cover = "https://images.unsplash.com/photo-1504355080015-bba52674577b?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ&s=54733a3c1965933aab5f6c9a509f4ec3"
 slug = "pls-00103-encountered-the-symbol-when"
 tags = ["Oracle", "VB", "Archives"]
 title = "PLS-00103: Encountered the symbol \"\" WHEN expecting one OF the following"

@@ -4,7 +4,7 @@ categories = ["Identity Server", ".Net Core", "OAuth"]
 date = 2018-06-07T09:09:58Z
 description = ""
 draft = false
-image = "https://images.unsplash.com/photo-1495714096525-285e85481946?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ&s=676e84fbf50b6594da2d771e98120c8a"
+cover = "https://images.unsplash.com/photo-1495714096525-285e85481946?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ&s=676e84fbf50b6594da2d771e98120c8a"
 slug = "three-legged-oauth"
 tags = ["Identity Server", ".Net Core", "OAuth"]
 title = "Three Legged OAuth"

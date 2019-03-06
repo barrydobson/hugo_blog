@@ -4,7 +4,7 @@ categories = ["VB", "Archives"]
 date = 2008-06-13T08:28:00Z
 description = ""
 draft = false
-image = "https://images.unsplash.com/photo-1470173274384-c4e8e2f9ea4c?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ&s=7779b521f2047d20269300fc192bd19e"
+cover = "https://images.unsplash.com/photo-1470173274384-c4e8e2f9ea4c?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ&s=7779b521f2047d20269300fc192bd19e"
 slug = "working-with-ldap-in-vb-net"
 tags = ["VB", "Archives"]
 title = "Working with LDAP in VB.Net"

@@ -4,7 +4,7 @@ categories = ["AWS", "Docker", "Elastic Beanstalk"]
 date = 2018-05-26T13:11:12Z
 description = ""
 draft = false
-image = "https://images.unsplash.com/uploads/141143339879512fe9b0d/f72e2c85?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ&s=e85af6f6e4dc5dfef2af958ae493db62"
+cover = "https://images.unsplash.com/uploads/141143339879512fe9b0d/f72e2c85?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ&s=e85af6f6e4dc5dfef2af958ae493db62"
 slug = "scaling-with-elastic-beanstalk"
 tags = ["AWS", "Docker", "Elastic Beanstalk"]
 title = "Scaling with Elastic Beanstalk"

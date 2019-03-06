@@ -4,7 +4,7 @@ categories = ["Docker", ".Net Core"]
 date = 2018-06-04T10:15:20Z
 description = ""
 draft = false
-image = "https://images.unsplash.com/photo-1494961104209-3c223057bd26?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ&s=76db2d0c70f6b06cc35f2b569f1a9efa"
+cover = "https://images.unsplash.com/photo-1494961104209-3c223057bd26?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ&s=76db2d0c70f6b06cc35f2b569f1a9efa"
 slug = "build-and-run-aspnet-core-docker"
 tags = ["Docker", ".Net Core"]
 title = "Build and Run ASP.Net Core Application in Docker"

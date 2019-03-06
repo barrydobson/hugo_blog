@@ -5,16 +5,23 @@ theme = "terminal"
 paginate = 5
 googleAnalytics = "UA-118951548-2"
 enableGitInfo = true
+disqusShortname = "barrydobsonsblog"
 
 [params]
-  # dir name of your blog content (default is `content/posts`)
   contentTypeName = "post"
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "green"
-  # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2
   fullWidthTheme = false
   centerTheme = true  
+  socialShare = true
+  delayDisqus = true
+
+[Author]
+  name = "Barry Dobson"
+  website = "www.barrydobson.com"
+  github = "barrydobson"
+  twitter = "barrydobson"
   
 [languages]
   [languages.en]
