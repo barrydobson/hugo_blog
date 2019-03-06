@@ -22,6 +22,7 @@ disqusShortname = "barrydobsonsblog"
   website = "www.barrydobson.com"
   github = "barrydobson"
   twitter = "barrydobson"
+  linkedin = "barry-dobson-aa8614113"
   
 [languages]
   [languages.en]
@@ -39,6 +40,3 @@ disqusShortname = "barrydobsonsblog"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"

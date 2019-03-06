@@ -58,3 +58,28 @@
     padding-right: 5px;
 }
   
+.socialcontainer .list-inline {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.socialcontainer .text-center {
+  text-align: right;
+}
+
+.socialcontainer .list-inline>li {
+  display: inline-block;
+  padding-right: 1px;
+  padding-left: 1px;
+}
+
+.socialcontainer a {
+  color: #78e2a0;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+.socialcontainer {
+  padding-top: 10px;
+}
