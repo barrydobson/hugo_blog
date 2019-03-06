@@ -3,7 +3,7 @@ languageCode = "en-gb"
 title = "Barry Dobson"
 theme = "terminal"
 paginate = 5
-googleAnalytics = "UA-118951548-3"
+googleAnalytics = "UA-118951548-2"
 enableGitInfo = true
 
 [params]
