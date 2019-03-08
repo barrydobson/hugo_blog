@@ -11,7 +11,7 @@ disqusShortname = "barrydobsonsblog"
   contentTypeName = "post"
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "green"
-  showMenuItems = 2
+  showMenuItems = 0
   fullWidthTheme = false
   centerTheme = true  
   socialShare = true
@@ -37,6 +37,3 @@ disqusShortname = "barrydobsonsblog"
     [languages.en.params.logo]
       logoText = "Barry Dobson"
       logoHomeLink = "/"
-
-    [languages.en.menu]
-      [[languages.en.menu.main]]
