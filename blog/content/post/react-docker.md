@@ -4,7 +4,7 @@ categories = ["Docker", "React", "CI"]
 date = 2019-03-19T17:00:58Z
 description = ""
 draft = false
-cover = ""
+cover = "https://images.unsplash.com/photo-1533234427049-9e9bb093186d?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ&s=676e84fbf50b6594da2d771e98120c8a"
 slug = "react-docker"
 tags = ["Docker", "React", "CI"]
 title = "Building and Testing React Applications with Docker"
