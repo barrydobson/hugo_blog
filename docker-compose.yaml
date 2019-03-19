@@ -1,0 +1,14 @@
+version: '3.5'
+
+services:
+  hugo:
+    container_name: hugo-cli
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: barrydobson/hugo:0.54.0
+    volumes:
+      - './:/app'
+    working_dir: '/app/blog'
+    ports:
+      - '1313:1313'
