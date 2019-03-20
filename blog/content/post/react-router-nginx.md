@@ -4,10 +4,10 @@ categories = ["Docker", "React", "Nginx"]
 date = 2019-03-20T12:00:58Z
 description = "This is a quick note on configuring Nginx to correctly proxy requests when using React router."
 draft = false
-cover = "/img/cog-wheels-2125183_1920.jpg"
-slug = "configure-spa-docker"
-tags = ["Docker", "React", "CI"]
-title = "Configuring a Single Page Application in a Container"
+cover = "/img/jens-johnsson-415903-unsplash.jpg"
+slug = "react-router-nginx"
+tags = ["Docker", "React", "Nginx"]
+title = "Configuring Nginx for React Router"
 +++
 
 This is a quick note on configuring Nginx to correctly proxy requests when using React router.
