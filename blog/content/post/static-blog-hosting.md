@@ -114,5 +114,3 @@ This should generate a public folder in the `my-site` folder which will contain 
 # Next steps
 
 In my next post, we'll take a look at hosting this in Azure blob storage and accessing it via the static website functionality.
-
-*Image Credits: [Wikipedia](https://commons.wikimedia.org/wiki/File:NCDN_-_CDN.png)*
