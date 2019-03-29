@@ -1,0 +1,21 @@
+<footer class="post-footer">
+
+  <div class="post-footer-data">
+    {{ partial "tags.html" . }}
+    <div class="date"> {{ .Date.Format "Jan 2, 2006" }} </div>
+  </div>
+
+</footer>
+
+{{ if eq .Type "post" }}
+  {{ if $.Param "socialShare" }}
+    <hr/>
+    <section id="social-share">
+      <div class="social list-inline footer-links">
+        {{ partial "share-links" . }}
+      </div>
+    </section>
+    <hr/>
+  {{ end }}
+  {{ template "_internal/disqus.html" . }}
+{{ end }}
